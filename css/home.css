@@ -1,0 +1,46 @@
+
+.home-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-family: 'Gilroy-Bold', serif;
+    margin-bottom: 30px;
+}
+
+.title {
+    color: #070707;
+    line-height: 59px;
+    font-size: 47px;
+    font-weight: 700;
+    margin: 39.69px 0 0 0;
+    position: relative;
+}
+
+.first-subtitle {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #070707;
+    min-width: 155px;
+    margin-top: 94.77px;
+}
+
+.second-subtitle {
+    margin: 69.5px 0 0 0;
+    writing-mode:vertical-lr;
+    transform: rotate(180deg);
+    font-size: 16px;
+    line-height: 19.81px;
+    color: #828282;
+    font-weight: 700;
+}
+
+.color-text {
+    color: black;
+}
+
+.photo {
+    width: 100%;
+    object-fit: cover;
+}
+

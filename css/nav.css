@@ -1,0 +1,52 @@
+.header {
+    background-color: #fff;
+    padding: 32px 0 0 0;
+}
+
+.container {
+    max-width: 970px;
+    padding: 0 15px;
+    margin: 0 auto; 
+    overflow: hidden;
+}
+
+.nav-list {
+    font-family: 'Gilroy-Bold', serif;
+    list-style-type: none;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 700;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-list a {
+    text-decoration: none;
+}
+
+.nav-list li {
+    list-style-type: none;
+}
+
+.step {
+    color: #828282;
+}
+
+.home {
+    color: #070707;
+}
+
+.line {
+    border-bottom: 1px solid #828282;
+    margin-left:38px
+}
+
+.nav-button {
+    border: 0;
+    background-color: #FFF;
+    display: none;
+}
+
